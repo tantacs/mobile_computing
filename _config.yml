@@ -3,7 +3,7 @@ course_name: Mobile Computing
 course_description: "This course provides an overview on mobile computing."
 course_semester: "Spring 2021"
 
-baseurl: "tanta_mobile_computing.github.io/" # the subpath of your site, e.g. /blog/
+baseurl: "/tanta_mobile_computing.github.io/" # the subpath of your site, e.g. /blog/
 url: "https://tantacs.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Tanta University"
