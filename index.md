@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-This is the homepage4
+Welcome to the Mobile Computing Course!
