@@ -1,11 +1,11 @@
 ---
 type: section
-date: 2021-04-06
-title: Android Development Intro
-tldr: "Introduction to Android operating system and app development"
+date: 2021-04-13
+title: Components of Android Application
+tldr: "Components of Android Application"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/LectureNotes/Section1.pptx
+    - url: /static_files/LectureNotes/Section2.pptx
       name: Section slides
 ---
 
