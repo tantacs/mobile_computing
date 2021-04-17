@@ -5,8 +5,8 @@ title: Mobile computing intro and GSM
 tldr: "GSM"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/LectureNotes/Lecture2_part1.pptx
+    - url: /static_files/LectureNotes/Lecture2_part1.pdf
       name: Lecture slides Part 1
-    - url: /static_files/LectureNotes/Lecture2_part2.pptx
+    - url: /static_files/LectureNotes/Lecture2_part2.pdf
       name: Lecture slides Part 2
 ---
