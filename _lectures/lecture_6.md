@@ -9,4 +9,5 @@ links:
       name: Wireless and Mobile Networks
 ---
 **Suggested Readings:**
+- [CSMA/CD and CSMA/CA Animation - Video](https://www.youtube.com/watch?v=iKn0GzF5-IU)
 - [Wirelss and Mobile networks - Kruose Book chapter 6](../static_files/LectureNotes/chapter6_wireless_and_mobile_networks.pdf)
