@@ -1,6 +1,6 @@
 ---
 type: section
-date: 2021-04-27
+date: 2021-05-11
 title: Bluetooth APIs
 tldr: "Bluetooth APIs"
 thumbnail: /static_files/presentations/lec.jpg
